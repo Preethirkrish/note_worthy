@@ -10,11 +10,18 @@ Offline database to store important notes.
 
 - Add, edit important notes for further references. 
 ## Screenshots
-
-<!--
-<img src="screens/images/0.png" align="center"
+<img src="screens/note1.png" align="center"
 width="200">
--->
+
+### Home Screen
+<img src="screens/note4.png" align="center"
+width="200">
+
+### Add Notes
+<img src="screens/note2.png" align="center"
+width="200">
+<img src="screens/note3.png" align="center"
+width="200">
 
 ## Permissions
 
